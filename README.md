@@ -9,3 +9,4 @@ Detailed architecture documentation can be found [here](docs/architecture.md)
 - Dynamic session key generation
 - Secure IV rotation
 - Replay attack mitigation
+
